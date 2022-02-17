@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    text-decoration: rgb(190, 122, 18);
+    font-style: italic;
+    color: rgb(114, 88, 156);
+    font-size: x-large;
+    
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color:rgb(42, 165, 73);
+
+    
+}
+h3{
+    text-align: center;
+        font-style: italic;
+        color: rgb(46, 43, 226);
+
+
+}
+label{
+    color: rgb(216, 121, 121);
+    font-size: larger;
+    align-items: center;
+    text-align:center;
+}
+button{
+   background-color:blueviolet;
+    box-sizing: content-box;
+}
+body{
+    background-color: darkgray;
+}
+
+
+
+
